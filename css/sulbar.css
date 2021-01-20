@@ -1,0 +1,52 @@
+body{
+    background-color:grey;
+    color :rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+    font-weight: 400;
+    padding: 15px;
+    margin:auto;
+}
+.ta-container{
+    max-width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ta-main-content {background-color: honeydew;}
+#tm-intro-img{
+    background-image:url(PosterPenggalanganDana.png);
+    background-position: center;
+    background-size: cover;
+    min-height: 425px;
+}
+.tm-text-white{color:rgb(255, 255, 255); }
+.tm-page-header-container {text-align: center;}
+.tm-page-header {
+    display: inline-block;
+    vertical-align: baseline;
+    margin-top: 20px;
+    margin-bottom: 35px ;
+    font-size: 2.1rem;
+    font-weight: 400;
+}
+
+.tm-section-header{
+    color: honeydew;
+    text-align: center;
+    font-weight: 400;
+    font-size: 1.5rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+table {
+    width: auto;
+    border-spacing: 0;
+}
+.tm-section-header{
+    color: honeydew;
+    text-align: center;
+    font-weight: 400;
+    font-size: 1.5rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
